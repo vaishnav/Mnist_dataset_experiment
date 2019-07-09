@@ -2,7 +2,7 @@
 
 ## Usage
 1. Enter the dataset path in the datapath varible in the code to read from the dataset you've downloded
-2. Or you can import the data from pickle file, no need to change the code 
+2. Later you can use pickle file for dataset so you have to read original dataset once only
 
 
 ## Dependencies 
